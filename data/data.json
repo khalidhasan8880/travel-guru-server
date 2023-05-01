@@ -1,0 +1,83 @@
+[
+    {
+      "district_name": "Shinjuku, Tokyo",
+      "district_description": "Shinjuku is a bustling entertainment and shopping district in Tokyo. It's famous for its bright neon lights, skyscrapers, and lively nightlife. Visitors can explore the many shops, restaurants, and bars in the area, or visit one of the many parks and gardens for a more peaceful experience.",
+      "hotels": [
+        {
+          "name": "Park Hyatt Tokyo",
+          "address": "3-7-1-2 Nishi Shinjuku, Shinjuku, Tokyo 163-1055, Japan",
+          "phone": "+81 3-5322-1234",
+          "price_per_night": 400,
+          "rating": 4.8
+        },
+        {
+          "name": "Hilton Tokyo",
+          "address": "6-6-2 Nishi-Shinjuku, Shinjuku, Tokyo 160-0023, Japan",
+          "phone": "+81 3-3344-5111",
+          "price_per_night": 250,
+          "rating": 4.5
+        },
+        {
+          "name": "Keio Plaza Hotel Tokyo",
+          "address": "2-2-1 Nishi-Shinjuku, Shinjuku, Tokyo 160-8330, Japan",
+          "phone": "+81 3-3344-0111",
+          "price_per_night": 150,
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "district_name": "La Rambla, Barcelona",
+      "district_description": "La Rambla is a popular tourist destination in Barcelona. It's a tree-lined pedestrian street that stretches for 1.2 km, lined with shops, cafes, and street performers. Visitors can also explore nearby attractions such as the Gothic Quarter and the famous La Boqueria market.",
+      "hotels": [
+        {
+          "name": "Hotel Pulitzer Barcelona",
+          "address": "C/ Bergara, 8, 08002 Barcelona, Spain",
+          "phone": "+34 933 48 44 55",
+          "price_per_night": 200,
+          "rating": 4.6
+        },
+        {
+          "name": "Hotel Royal Ramblas",
+          "address": "Las Ramblas, 117, 08002 Barcelona, Spain",
+          "phone": "+34 933 01 04 11",
+          "price_per_night": 100,
+          "rating": 4.2
+        },
+        {
+          "name": "Hotel Continental Barcelona",
+          "address": "La Rambla, 138, 08002 Barcelona, Spain",
+          "phone": "+34 933 01 43 53",
+          "price_per_night": 80,
+          "rating": 3.8
+        }
+      ]
+    },
+    {
+      "district_name": "Old Quarter, Hanoi",
+      "district_description": "The Old Quarter is the historic heart of Hanoi, Vietnam. Visitors can explore the narrow streets and alleyways lined with traditional shop-houses, selling everything from handicrafts to street food. There are also many historic sites and museums in the area, including the Temple of Literature and Hoan Kiem Lake.",
+      "hotels": [
+        {
+          "name": "Hanoi La Siesta Hotel & Spa",
+          "address": "94 Ma May St, Hoan Kiem District, Hanoi, Vietnam",
+          "phone": "+84 24 393 28599",
+          "price_per_night": 80,
+          "rating": 4.5
+          },
+          {
+          "name": "Essence Hanoi Hotel & Spa",
+          "address": "22 Ta Hien Street, Hoan Kiem District, Hanoi, Vietnam",
+          "phone": "+84 24 3935 2485",
+          "price_per_night": 60,
+          "rating": 4.2
+          },
+          {
+          "name": "Hanoi Moment Hotel",
+          "address": "39c Hang Hanh Street, Hoan Kiem District, Hanoi, Vietnam",
+          "phone": "+84 24 3200 9999",
+          "price_per_night": 40,
+          "rating": 3.9
+          }
+          ]
+          }
+          ]  

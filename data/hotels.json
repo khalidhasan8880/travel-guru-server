@@ -1,0 +1,77 @@
+{
+    "hotels": [
+      {
+        "id": "1",
+        "name": "Grand Hyatt",
+        "location": "New York City, United States",
+        "price_per_night": "$350",
+        "rating": 4.7,
+        "amenities": [
+          "Swimming pool",
+          "Fitness center",
+          "Spa",
+          "Restaurant"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Shangri-La Hotel",
+        "location": "Hong Kong",
+        "price_per_night": "$400",
+        "rating": 4.9,
+        "amenities": [
+          "Swimming pool",
+          "Fitness center",
+          "Spa",
+          "Restaurant",
+          "Free WiFi"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Taj Mahal Palace",
+        "location": "Mumbai, India",
+        "price_per_night": "$280",
+        "rating": 4.6,
+        "amenities": [
+          "Swimming pool",
+          "Fitness center",
+          "Spa",
+          "Restaurant",
+          "Free WiFi",
+          "24-hour front desk"
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Taj Mahal Palace",
+        "location": "Mumbai, India",
+        "price_per_night": "$280",
+        "rating": 4.6,
+        "amenities": [
+          "Swimming pool",
+          "Fitness center",
+          "Spa",
+          "Restaurant",
+          "Free WiFi",
+          "24-hour front desk"
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Taj Mahal Palace",
+        "location": "Mumbai, India",
+        "price_per_night": "$280",
+        "rating": 4.6,
+        "amenities": [
+          "Swimming pool",
+          "Fitness center",
+          "Spa",
+          "Restaurant",
+          "Free WiFi",
+          "24-hour front desk"
+        ]
+      }
+    ]
+  }
+  
